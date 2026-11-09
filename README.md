@@ -53,6 +53,7 @@ ProdukTokoApp/
                 └── styles/
                     └── app.css
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/513f0be6-9955-4b44-b8cb-25f919f935c4" />
 
 ## 🧩 Konsep OOP yang Diterapkan
 
